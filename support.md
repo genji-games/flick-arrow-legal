@@ -25,7 +25,7 @@ Scores are only submitted to the leaderboard when you set a **new best** in that
 
 ### How do I delete my data?
 
-Uninstalling the app clears all locally stored data on your phone. To also remove your leaderboard row from our backend, email us with your nickname and approximate last play time. We'll remove it within 30 days, free of charge. See the [Privacy Policy](./) for full details.
+Uninstalling the app clears all locally stored data on your phone. To also remove your leaderboard row from our backend, email us with your nickname and approximate last play time. We'll remove it within 30 days, free of charge. See the [Privacy Policy](./privacy) for full details.
 
 ### What permissions does the app need?
 
@@ -44,4 +44,4 @@ The screen has the error details. **Screenshot it and send it to the email above
 
 ---
 
-[← Back to Privacy Policy](./index)
+[← Back to Privacy Policy](./privacy)
